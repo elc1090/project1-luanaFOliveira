@@ -2,14 +2,14 @@
 
 ![Screenshot do projeto](PhotoFolio/assets/img/printTelaInicial.png).
 
-Acesso: Preencha aqui a URL para acesso ao site publicado
+Acesso: https://github.com/luanaFOliveira/luanaFOliveira.github.io
 
 
 #### Desenvolvedor(a)
 Luana Ferreira Oliveira
 
 #### Cliente
-
+Roberto Jose Mahl como Katiany Echevarria Pinto
 
 #### Tecnologias
 
@@ -24,7 +24,6 @@ Luana Ferreira Oliveira
 
 #### Créditos
 
-Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemplo:
 - Fotos tiradas por Katiany Echevarria Pinto
 - Pessoa nas fotos, Ismael Lisot
 - Fotos de alimentos, Confeitaria Sabor de Felicidade
