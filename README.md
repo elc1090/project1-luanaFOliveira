@@ -2,7 +2,7 @@
 
 ![Screenshot do projeto](PhotoFolio/assets/img/printTelaInicial.png).
 
-Acesso: https://github.com/luanaFOliveira/luanaFOliveira.github.io
+Acesso: https://luanafoliveira.github.io/
 
 
 #### Desenvolvedor(a)
